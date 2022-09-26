@@ -5,7 +5,7 @@
   - Random configuration on each reload
   - Also known as simply 'Life'
   
- ## Its behavior are broke down into three simple rules
+ ## Its behavior is broken down into three simple rules
 
     1. Any live cell with two or three live neighbours survives.
     2. Any dead cell with three live neighbours becomes a live cell.
