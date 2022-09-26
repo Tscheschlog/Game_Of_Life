@@ -1,4 +1,4 @@
-# This is Game Of Life - Conway
+# This is Game Of Life - John Horton Conway
 
   - This is a zero player game
       - The game is determined based on intial conditions 
